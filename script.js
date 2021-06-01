@@ -1,3 +1,9 @@
+document.getElementById('textbutton').addEventListener('click', myFunction)
+
+document.getElementById('colorbutton').addEventListener('click', changeColor)
+
+document.getElementById('varbutton').addEventListener('click', buttonClicks)
+
 let x = 0
 
 function myFunction () {
